@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-01T16:36:05Z" name="Default suite" finished-at="2018-06-01T16:36:14Z" duration-ms="9166">
+    <groups>
+    </groups>
+    <test started-at="2018-06-01T16:36:05Z" name="Default test" finished-at="2018-06-01T16:36:14Z" duration-ms="9166">
+      <class name="QETeam.LearningSelenium.HandlingFrames">
+        <test-method is-config="true" signature="setters()[pri:0, instance:QETeam.LearningSelenium.HandlingFrames@2118cddf]" started-at="2018-06-01T16:36:05Z" name="setters" finished-at="2018-06-01T16:36:05Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setters -->
+        <test-method is-config="true" signature="givenRequirements()[pri:0, instance:QETeam.LearningSelenium.HandlingFrames@2118cddf]" started-at="2018-06-01T16:36:05Z" name="givenRequirements" finished-at="2018-06-01T16:36:10Z" duration-ms="5393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- givenRequirements -->
+        <test-method signature="dropIt()[pri:0, instance:QETeam.LearningSelenium.HandlingFrames@2118cddf]" started-at="2018-06-01T16:36:10Z" name="dropIt" finished-at="2018-06-01T16:36:14Z" duration-ms="3726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropIt -->
+      </class> <!-- QETeam.LearningSelenium.HandlingFrames -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
